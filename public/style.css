@@ -1,0 +1,22 @@
+.card{
+    border-radius: 1.4em;
+}
+.card-img-top{
+    border-radius: 1.4em;
+}
+
+.inner{
+    overflow: hidden;
+    border-radius: 1.4em;
+}
+
+.inner img{
+    transition: all 1.5s ease;
+}
+
+.inner:hover img{
+    transform: scale(1.5);
+}
+
+
+
